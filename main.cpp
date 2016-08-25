@@ -5,6 +5,10 @@
 //  Created by Murilo Erhardt on 08/08/16.
 //  Copyright © 2016 Murilo Erhardt. All rights reserved.
 //
+//#include <stdio.h>
+//#include <string.h>
+//#include <stdlib.h>
+
 
 #import <Foundation/Foundation.h>
 
